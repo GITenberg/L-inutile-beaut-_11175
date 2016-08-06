@@ -1,0 +1,32 @@
+_repo: L-inutile-beaut-_11175
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11175'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, French'
+- GITenberg
+tableOfContents: L'inutile beauté -- Le champ d'oliviers -- Mouche -- Le noyé -- L'épreuve
+  -- Le masque -- Un portrait -- L'infirme -- Les 25 francs de la supérieure -- Un
+  cas de divorce -- Qui sait?
+title: L'inutile beauté
+url: http://www.gutenberg.org/ebooks/11175
